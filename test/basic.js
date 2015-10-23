@@ -65,4 +65,3 @@ function setup () {
 function cleanup () {
   rimraf.sync(testDBpath)
 }
-
